@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/af314078-8760-4c36-974e-380c7e90515f/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/web-calling-communication-services",
+    "appService.deploySubpath": "."
+}
